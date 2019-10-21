@@ -1,3 +1,5 @@
+⚠️ *DEPRECATED* ⚠️ This connector is now built in to [opsdroid core](https://opsdroid.readthedocs.io/en/latest/connectors/telegram/). This repository only exists for backward compatibility and will be removed.
+
 # opsdroid connector telegram
 
 A connector for [opsdroid](https://github.com/opsdroid/opsdroid) to send messages using [Telegram](https://telegram.org/).
